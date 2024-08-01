@@ -1,0 +1,22 @@
+body {
+  background-color: #474747;
+  color: hsl(40, 36%, 73%);
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
+
+a {
+  color: hsl(39, 100%, 50%);
+}
+
+hr {
+  color: hsl(40, 36%, 73%);
+}
